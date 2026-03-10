@@ -139,7 +139,7 @@ Blinkit-PowerBI-Dashboard
 
 Add a screenshot of your dashboard here.
 
-![Blinkit Dashboard](images/dashboard_preview.png)
+![Blinkit Dashboard](images/dashboard_ss.png)
 
 ---
 
@@ -165,6 +165,6 @@ These insights can help businesses **optimize product distribution, marketing st
 
 ## 👨‍💻 Author
 
-**Sahil**
+**Sahil Kumar Singh**
 
 If you like this project, feel free to ⭐ the repository!
