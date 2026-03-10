@@ -137,8 +137,6 @@ Blinkit-PowerBI-Dashboard
 
 ## 📸 Dashboard Preview
 
-Add a screenshot of your dashboard here.
-
 ![Blinkit Dashboard](images/dashboard_ss.png)
 
 ---
